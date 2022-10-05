@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      "img": "https://i.ibb.co/3T6TKR9/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      "img": "https://i.ibb.co/v4gd9VZ/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      "img": "https://i.ibb.co/Mk48xqP/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      
+      "img": "https://i.ibb.co/YWYFxbf/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      "img": "https://i.ibb.co/jwQGnJ4/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Replace Tire",
+      "price": 200,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A cum officia, incidunt in praesentium nemo beatae aperiam similique? Sed hic molestiae veritatis autem unde beatae error totam vel cumque in.",
+      "img": "https://i.ibb.co/th5YRvr/6.jpg"
+    }
+  ]
